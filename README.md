@@ -301,102 +301,99 @@
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(165).pdf" style="text-decoration:none;">Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(166).pdf" style="text-decoration:none;">Shaping Asteroid Models Using Genetic Evolution (SAGE)</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(166).pdf" style="text-decoration:none;">Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(167).pdf" style="text-decoration:none;">TiK-means: Transformation-infused K-means clustering for skewed groups</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(167).pdf" style="text-decoration:none;">Graph Transformer Networks</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(168).pdf" style="text-decoration:none;">Generative deep fields: arbitrarily sized, random synthetic astronomical images through deep learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(169).pdf" style="text-decoration:none;">Identifying MgII Narrow Absorption Lines with Deep Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(170).pdf" style="text-decoration:none;">Application of Machine Learning to the Particle Identification of GAPS</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(171).pdf" style="text-decoration:none;">Detecting Exoplanet Transits through Machine Learning Techniques with Convolutional Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(172).pdf" style="text-decoration:none;">Optical Transient Object Classification in Wide Field Small Aperture Telescopes with Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(173).pdf" style="text-decoration:none;">Identification of RR Lyrae stars in multiband, sparsely-sampled data from the Dark Energy Survey using template fitting and Random Forest classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(168).pdf" style="text-decoration:none;">Recurrent Space-time Graph Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(169).pdf" style="text-decoration:none;">Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(170).pdf" style="text-decoration:none;">Exact Combinatorial Optimization with Graph Convolutional Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(171).pdf" style="text-decoration:none;">On the equivalence between graph isomorphism testing and function approximation with GNNs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(172).pdf" style="text-decoration:none;">A Fair Comparison of Graph Neural Networks for Graph Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(173).pdf" style="text-decoration:none;">Adaptive Structural Fingerprints for Graph Attention Networks </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(174).pdf" style="text-decoration:none;">Do Androids Dream of Magnetic Fields? Using Neural Networks to Interpret the Turbulent Interstellar Medium</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(175).pdf" style="text-decoration:none;">Identification of Young Stellar Object candidates in the Gaia DR2 x AllWISE catalogue with machine learning methods</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(176).pdf" style="text-decoration:none;">Morphological classification of radio galaxies: Capsule Networks versus Convolutional Neural Networks</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(174).pdf" style="text-decoration:none;">Adversarial Attacks on Graph Neural Networks via Meta Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(175).pdf" style="text-decoration:none;">A graph-convolutional neural network model for the prediction of chemical reactivity</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(176).pdf" style="text-decoration:none;">Capsule Graph Neural Network</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(177).pdf" style="text-decoration:none;">Using Convolutional Neural Networks to identify Gravitational Lenses in Astronomical images</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(177).pdf" style="text-decoration:none;">Stochastic Training of Graph Convolutional Networks with Variance Reduction</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(178).pdf" style="text-decoration:none;">Deep Neural Network Classifier for Variable Stars with Novelty Detection Capability</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(179).pdf" style="text-decoration:none;">Fast Wiener filtering of CMB maps with Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(178).pdf" style="text-decoration:none;">Composition-based Multi-Relational Graph Convolutional Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(179).pdf" style="text-decoration:none;">Curvature Graph Network </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(180).pdf" style="text-decoration:none;">A deep learning model to emulate simulations of cosmic reionization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(180).pdf" style="text-decoration:none;">Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer's Disease</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(181).pdf" style="text-decoration:none;">Predicting Solar Flares Using a Long Short-Term Memory Network</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(182).pdf" style="text-decoration:none;">Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active Learning </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(183).pdf" style="text-decoration:none;">Principal component analysis of the primordial tensor power spectrum</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(181).pdf" style="text-decoration:none;">DropEdge: Towards Deep Graph Convolutional Networks on Node Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(182).pdf" style="text-decoration:none;">Modeling Polypharmacy Side Effects with Graph Convolutional Networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(183).pdf" style="text-decoration:none;">Efficient Probabilistic Logic Reasoning with Graph Neural Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(184).pdf" style="text-decoration:none;">A Bayesian direct method implementation to fit emission line spectra: Application to the primordial He abundance
-determination</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(184).pdf" style="text-decoration:none;"> Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(185).pdf" style="text-decoration:none;">Projected Pupil Plane Pattern (PPPP) with artificial Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(185).pdf" style="text-decoration:none;">Geom-GCN: Geometric Graph Convolutional Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(186).pdf" style="text-decoration:none;">AutoRegressive Planet Search: Application to the Kepler Mission</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(186).pdf" style="text-decoration:none;">Graph Convolutional Reinforcement Learning</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(187).pdf" style="text-decoration:none;">Multiwavelength cluster mass estimates and machine learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(187).pdf" style="text-decoration:none;">Graph HyperNetworks for Neural Architecture Search</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(188).pdf" style="text-decoration:none;">Deconfusing intensity maps with neural networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(188).pdf" style="text-decoration:none;">Graph Neural Networks Exponentially Lose Expressive Power for Node Classification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(189).pdf" style="text-decoration:none;">An extended catalog of galaxy-galaxy strong gravitational lenses discovered in DES using convolutional neural
-networks</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(190).pdf" style="text-decoration:none;">An Ensemble of Bayesian Neural Networks for Exoplanetary Atmospheric Retrieval</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(189).pdf" style="text-decoration:none;">Graph Wavelet Neural Network</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(190).pdf" style="text-decoration:none;">Hyper-SAGNN: a self-attention based graph neural network for hypergraphs</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(191).pdf" style="text-decoration:none;">Large-Scale Statistical Survey of Magnetopause Reconnection  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(191).pdf" style="text-decoration:none;"> Hyperbolic Attention Networks  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(192).pdf" style="text-decoration:none;">Anomaly Detection in the Open Supernova Catalog</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(192).pdf" style="text-decoration:none;">A Persistent Weisfeiler–Lehman Procedure for Graph Classification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(193).pdf" style="text-decoration:none;">Neural network-based anomaly detection for high-resolution X-ray spectroscopy</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(193).pdf" style="text-decoration:none;">Inductive Matrix Completion Based on Graph Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(194).pdf" style="text-decoration:none;">Gaussian-mixture-model-based cluster analysis of gamma-ray bursts in the BATSE catalogue</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(194).pdf" style="text-decoration:none;">Invariant and Equivariant Graph Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(195).pdf" style="text-decoration:none;">KiDS-SQuaD II: Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(195).pdf" style="text-decoration:none;">Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(196).pdf" style="text-decoration:none;">Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(196).pdf" style="text-decoration:none;">Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(197).pdf" style="text-decoration:none;">Learning Radiative Transfer Models for Climate Change Applications in Imaging Spectroscopy</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(197).pdf" style="text-decoration:none;">LambdaNet: Probabilistic Type Inference using Graph Neural Networks</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(198).pdf" style="text-decoration:none;">RadioGAN &minus; Translations between different radio surveys with generative adversarial networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(198).pdf" style="text-decoration:none;">Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(199).pdf" style="text-decoration:none;">Classifying galaxies according to their HI content</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(199).pdf" style="text-decoration:none;">Measuring and Improving the Use of Graph Information in Graph Neural Networks</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(200).pdf" style="text-decoration:none;">One simulation to have them all: performance of the Bias Assignment Method against N-body simulations</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(200).pdf" style="text-decoration:none;">Memory-Based Graph Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(201).pdf" style="text-decoration:none;">An interpretable machine learning framework for dark matter halo formation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(201).pdf" style="text-decoration:none;"> BrainNetCNN: Convolutional Neural Networks for Brain Networks; Towards Predicting Neurodevelopment</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(202).pdf" style="text-decoration:none;">General classification of light curves using extreme boosting</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(202).pdf" style="text-decoration:none;">Learning Convolutional Neural Networks for Graphs</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(203).pdf" style="text-decoration:none;">Foreword to the Focus Issue on Machine Learning in Astronomy and Astrophysics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(203).pdf" style="text-decoration:none;">Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(204).pdf" style="text-decoration:none;">Automated crater shape retrieval using weakly-supervised deep learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(205).pdf" style="text-decoration:none;">Constraining strongly coupled new physics from cosmic rays with machine learning techniques</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(206).pdf" style="text-decoration:none;">A Halo Merger Tree Generation and Evaluation Framework</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(207).pdf" style="text-decoration:none;">Determining surface rotation periods of solar-like stars observed by the Kepler mission using machine learning techniques</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(204).pdf" style="text-decoration:none;">Next-Generation Machine Learning for Biological Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(205).pdf" style="text-decoration:none;">Graph Convolutional Neural Networks for Web-Scale Recommender Systems</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(206).pdf" style="text-decoration:none;">Depth-based Subgraph Convolutional Auto-Encoder for Network Representation Learning</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(207).pdf" style="text-decoration:none;">Machine learning meets complex networks via coalescent embedding in the hyperbolic space</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(208).pdf" style="text-decoration:none;">Automatic classification of K2 pulsating stars using machine learning techniques</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(208).pdf" style="text-decoration:none;">Graph Networks as Learnable Physics Engines for Inference and Control</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(209).pdf" style="text-decoration:none;">A machine learning approach for GRB detection in AstroSat CZTI data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(210).pdf" style="text-decoration:none;">Advanced Signal Reconstruction in Tunka-Rex with Matched Filtering and Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(209).pdf" style="text-decoration:none;">The graph neural network model</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(210).pdf" style="text-decoration:none;">Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(211).pdf" style="text-decoration:none;">A Principal Component Analysis-based method to analyse high-resolution spectroscopic data</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(211).pdf" style="text-decoration:none;">Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(212).pdf" style="text-decoration:none;">Morpheus: A Deep Learning Framework For Pixel-Level Analysis of Astronomical Image Data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(213).pdf" style="text-decoration:none;">Model Comparison of Dark Energy models Using Deep Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(212).pdf" style="text-decoration:none;">Strategies for Pre-training Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(213).pdf" style="text-decoration:none;">Semi-Supervised Classification with Graph Convolutional Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(214).pdf" style="text-decoration:none;">A Classifier to Detect Elusive Astronomical Objects through Photometry</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(215).pdf" style="text-decoration:none;">Probing Neural Networks for the Gamma/Hadron Separation of the Cherenkov Telescope Array</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(214).pdf" style="text-decoration:none;">Supervised Community Detection with Line Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(215).pdf" style="text-decoration:none;">The Logical Expressiveness of Graph Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(216).pdf" style="text-decoration:none;">Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(217).pdf" style="text-decoration:none;">A convolutional neural network approach for reconstructing polarization information of photoelectric
-X-ray polarimeters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(216).pdf" style="text-decoration:none;">Deep Learning of Graphs with Ngram Convolutional Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(217).pdf" style="text-decoration:none;">What graph neural networks cannot learn: depth vs width</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(218).pdf" style="text-decoration:none;">Cataloging Accreted Stars within Gaia DR2 using Deep Learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(219).pdf" style="text-decoration:none;">Deep learning classification of the continuous gravitational-wave signal candidates from the time-domain F-statistic search</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(220).pdf" style="text-decoration:none;">Kernel ridge Regression</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(218).pdf" style="text-decoration:none;">Unsupervised Domain Adaptive Graph Convolutional Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(219).pdf" style="text-decoration:none;">Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Graph-Neural-Network-progress/blob/master/nnp(220).pdf" style="text-decoration:none;">Circuit-GNN: Graph Neural Networks for Distributed Circuit Design</a></li>
   </ul>
